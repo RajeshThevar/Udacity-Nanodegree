@@ -1,2 +1,2 @@
 # Udacity-Nanodegree
-Projects completed from udacity nanodegree program
+Projects completed which are part of udacity deep learning course work.
