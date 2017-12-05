@@ -1,2 +1,2 @@
-# Udacity-Nanodegree
-Projects completed which are part of udacity deep learning course work.
+# Neural Network program
+A simple neural network built using tensorflow.
